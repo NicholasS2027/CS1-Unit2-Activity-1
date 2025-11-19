@@ -1,11 +1,10 @@
 .flexbox {
     display: flex;
-    border: 2px solid rgb(190, 190, 4);
     padding: 20px;
 }
 
 .item {
-    border: 2px solid green;
+   
     padding: 20px;
 }
 
@@ -23,5 +22,6 @@
 }
 
 #innerbox4 {
-    background: lightblue
+    background: lightblue;
+    align-items: center;
 }
